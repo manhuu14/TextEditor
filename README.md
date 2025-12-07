@@ -40,7 +40,7 @@ JavaScript (DOM Events)
 
 Clone the repo:
 
-git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+git clone https://github.com/manhuu14/TextEditor/tree/main
 
 
 Open the project folder:
