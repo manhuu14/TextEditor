@@ -20,8 +20,8 @@ Type anything in the input box, and it instantly appears as formatted text below
 ⚡ No dependencies, ultra-fast performance
 
 📸 Preview
+<img width="1357" height="587" alt="Screenshot From 2025-12-07 17-36-55" src="https://github.com/user-attachments/assets/a9e62f8c-4855-40ea-b1d8-c041457cf870" />
 
-(Add a screenshot here after you upload)
 
 📂 Project Structure
 ├── index.html
@@ -52,16 +52,3 @@ Run the project:
 
 Just open index.html in any browser.
 
-📌 Future Improvements
-
-Add dark/light mode
-
-Add markdown rendering
-
-Add auto-save
-
-Add copy-to-clipboard button
-
-⭐ Like this project?
-
-If you found it useful or cool, consider giving it a ⭐ on GitHub!
